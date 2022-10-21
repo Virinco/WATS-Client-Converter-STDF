@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STDFConverter", "STDFConverter.csproj", "{6E01A9A6-87D2-4817-9A71-34384C4CE4E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToStdf", "..\..\..\source\repos\LinqToStdf\Main\LinqToStdf\LinqToStdf.csproj", "{E251DABB-78AF-4451-93EF-B8C3420BEBC5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "STDFConvert", "STDFConvert", "{1C6850B0-DBCF-4FB1-82E7-32289AA07A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E01A9A6-87D2-4817-9A71-34384C4CE4E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E01A9A6-87D2-4817-9A71-34384C4CE4E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E01A9A6-87D2-4817-9A71-34384C4CE4E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E01A9A6-87D2-4817-9A71-34384C4CE4E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E251DABB-78AF-4451-93EF-B8C3420BEBC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E251DABB-78AF-4451-93EF-B8C3420BEBC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E251DABB-78AF-4451-93EF-B8C3420BEBC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E251DABB-78AF-4451-93EF-B8C3420BEBC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6E01A9A6-87D2-4817-9A71-34384C4CE4E8} = {1C6850B0-DBCF-4FB1-82E7-32289AA07A59}
+		{E251DABB-78AF-4451-93EF-B8C3420BEBC5} = {1C6850B0-DBCF-4FB1-82E7-32289AA07A59}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFEF6331-89B7-4B23-BD22-6945A5CF8AED}
+	EndGlobalSection
+EndGlobal
