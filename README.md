@@ -10,7 +10,7 @@ This converter does not support WATS Client 5.1 or older, because that version u
 * [About submitting data to WATS](https://virinco.zendesk.com/hc/en-us/articles/207424613)
 * [About creating custom converters](https://virinco.zendesk.com/hc/en-us/articles/207424593)
 
-This Converter uses [LinqToStdf](https://github.com/marklio/LinqToStdf). In order to compile, download both projects (LinqToStdf and Converter) from their respective pages, compile LinqToStdf in Visual Studio and add a reference to the compiled project in the Converter project. The STDFConverter.sln file also contains the LinqToStdf project, so you can also update the path to the new folder location there. 
+This Converter uses [LinqToStdf](https://github.com/marklio/LinqToStdf). In order to compile, download both projects (LinqToStdf and Converter) from their respective pages, compile LinqToStdf in Visual Studio and add a reference to the compiled project in the Converter project. 
 
 ## Download
 

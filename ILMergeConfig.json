@@ -1,0 +1,7 @@
+﻿{
+  "General": {
+    "InputAssemblies": [
+      "LinqToStdf.dll"
+    ]
+  }
+}
